@@ -231,7 +231,7 @@ def ask(query):
 
 # 메인 로직
 if clear_btn:
-    st.session_state["messa ges"] = []  # 대화 내용 초기화
+    st.session_state["messages"] = []  # 대화 내용 초기화
 
 if apply_btn and uploaded_file:
     loaded_data = pd.read_csv(uploaded_file)  # CSV 파일 로드
