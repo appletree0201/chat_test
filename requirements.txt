@@ -2,3 +2,4 @@ streamlit
 langchain-community
 langchain-experimental
 langchain-ollama
+pymupdf
