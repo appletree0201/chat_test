@@ -3,3 +3,7 @@ langchain-community
 langchain-experimental
 langchain-ollama
 pymupdf
+matplotlib
+faiss-cpu
+python-dotenv
+pandas
